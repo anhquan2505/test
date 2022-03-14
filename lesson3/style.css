@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+}
+p{
+
+}
+p{
+    /* margin: 20px; */
+    border: 1px dotted red;
+    font-weight: 900;
+    width: 200px;
+    /* position: absolute;
+    /* bottom: 200px; */
+    right: 0px;
+    top: 200px; 
+}
+#world{
+    position: relative;
+    background-color: aqua;
+}
+img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    right:600px;
+    top: 0px;
+}
